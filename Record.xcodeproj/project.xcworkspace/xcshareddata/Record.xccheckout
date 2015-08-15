@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5E1EC0E0-2F26-49DB-B179-562134F8B3FF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>391BC71C00C5DCC1C5C337F36E4F8CBEE104A90E</key>
+		<string>github.com:iantsai220/Practice-Realm.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Record/Record.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>391BC71C00C5DCC1C5C337F36E4F8CBEE104A90E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:iantsai220/Practice-Realm.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>391BC71C00C5DCC1C5C337F36E4F8CBEE104A90E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>391BC71C00C5DCC1C5C337F36E4F8CBEE104A90E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LighthouseLabs</string>
+		</dict>
+	</array>
+</dict>
+</plist>
